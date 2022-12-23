@@ -92,7 +92,7 @@
     "dequal": "^2.0.2",
     "fp-ts": "^2.6.2",
     "io-ts": "^2.2.4",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "lens-shmens": "^1.0.3",
     "preact": "^10.5.13",
     "preact-render-to-string": "^5.1.19",
